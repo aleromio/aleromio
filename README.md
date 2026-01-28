@@ -19,10 +19,9 @@ Throughout my career, I have developed end-to-end solutions—from multilayer PC
 
 | Project | Key Technologies | Focus |
 | :--- | :--- | :--- |
-| **[Industrial Telematics Gateway](./Industrial-Automotive-Telematics-Gateway)** | CAN Bus, J1939, LTE-Cat4 | Automotive robustness & ECU data mining. |
-| **[Marine Asset Tracker](./Marine-Asset-Tracker)** | LTE-M, GNSS, Low Power | Ultra-compact design & Power management. |
+| **[Industrial Telematics Gateway](aleromio/Industrial-Automotive-Telematics-Gateway)** | CAN Bus, J1939, LTE Cat-M1 | Automotive robustness & ECU data mining. |
+| **[Marine Asset Tracker](.aleromio/Marine-Asset-Tracker)** | LTE-M, GNSS, Low Power | Simple and compact design & Power management. |
 
----
 
 ## 🛠️ Tech Stack & Tools
 * **EDA:** Autodesk Eagle, KiCad.
@@ -30,7 +29,6 @@ Throughout my career, I have developed end-to-end solutions—from multilayer PC
 * **Ecosystems:** PIC Microcontroller, ESP32,  RTOS.
 * **Version Control:** TFS / Azure DevOps , Git.
 
----
 
 ## 📫 Connect with me
 * **LinkedIn:** [linkedin.com/in/alejandro-romio-b8524119](https://www.linkedin.com/in/alejandro-romio-b8524119/)
