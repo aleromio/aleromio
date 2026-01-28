@@ -19,8 +19,8 @@ Throughout my career, I have developed end-to-end solutions—from multilayer PC
 
 | Project | Key Technologies | Focus |
 | :--- | :--- | :--- |
-| **[Industrial Telematics Gateway](../Industrial-Automotive-Telematics-Gateway)** | CAN Bus, J1939, LTE Cat-M1 | Automotive robustness & ECU data mining. |
-| **[Marine Asset Tracker](../Marine-Asset-Tracker)** | LTE-M, GNSS, Low Power | Simple and compact design & Power management. |
+| **[Industrial Telematics Gateway](https://github.com/aleromio/Industrial-Automotive-Telematics-Gateway)** | CAN Bus, J1939, LTE Cat-M1 | Automotive robustness & ECU data mining. |
+| **[Marine Asset Tracker](https://github.com/aleromio/Marine-Asset-Tracker)** | LTE-M, GNSS, Low Power | Simple and compact design & Power management. |
 
 
 ## 🛠️ Tech Stack & Tools
