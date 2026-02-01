@@ -1,21 +1,29 @@
-## Hi there 👋
+# Alejandro Romio — Embedded Systems Engineer
 
- I'm Alejandro Romio | Electronics & Embedded Systems Engineer 🛠️
+Senior Embedded Systems Engineer with 15+ years of experience designing industrial hardware and firmware products.
 
-I am an Electronics Engineer specializing in **Industrial IoT, Automotive Telematics, and High-Reliability Hardware Design**. 
-
-Throughout my career, I have developed end-to-end solutions—from multilayer PCB design to low-level firmware architecture—for large-scale fleet management, specialized asset tracking and industrial controllers.
+I specialize in end-to-end embedded system development: from PCB design and low-level firmware to production deployment and large-scale field operation.  
+Over **20,000+ devices** designed and currently operating in real industrial environments.
 
 > **Note on Workflow:** My professional daily activity and proprietary enterprise projects are hosted on private **TFS (Azure DevOps)** environments. This GitHub profile serves as a curated showcase.
 
-## 🚀 Core Expertise
+---
 
-* **Hardware Engineering:** Multilayer PCB design (4-8 layers), Signal Integrity (SI), Power Integrity (PI), and DFM (Design for Manufacturing).
-* **Embedded Protocols:** Deep experience with **CAN Bus (J1939/OBD-II)**, SPI, I2C, and UART.
-* **IoT & Connectivity:** Specialized in **LTE-M / NB-IoT/** power optimization and GNSS integration.
+## 🔧 Core Expertise
 
+- Embedded C (Bare-Metal Firmware)
+- Industrial IoT & Telematics Systems
+- CAN Bus / Automotive Protocols
+- LTE-M / NB-IoT Connectivity
+- Bootloaders & OTA (FOTA)
+- Multilayer PCB Design (Eagle, KiCad)
+- Production Testing (FCT) & Manufacturing Support
+
+---
 
 ## 📁 Featured Showcase
+
+This profile contains selected **non-confidential public examples** representing real production systems and embedded design patterns:
 
 | Project | Key Technologies | Focus |
 | :--- | :--- | :--- |
@@ -24,13 +32,13 @@ Throughout my career, I have developed end-to-end solutions—from multilayer PC
 | **[Modem Driver (Gist)](https://gist.github.com/aleromio/e1f044775a8d06c891d5415b597c1d41)** | C, FSM, AT Parser | Non-blocking firmware architecture. |
 
 
-## 🛠️ Tech Stack & Tools
-* **EDA:** Autodesk Eagle, KiCad.
-* **Languages:** C/C++, Python (for Data Analysis).
-* **Ecosystems:** PIC Microcontroller, ESP32,  RTOS.
-* **Version Control:** TFS / Azure DevOps , Git.
+## 🌍 Availability
 
+Currently open to **remote embedded contractor / freelance opportunities**.
+
+---
 
 ## 📫 Connect with me
 * **LinkedIn:** [linkedin.com/in/alejandro-romio-b8524119](https://www.linkedin.com/in/alejandro-romio-b8524119/)
+* **Email:** aleromio@gmail.com
 * **Event:** Come find me at **Embedded World 2026**!
