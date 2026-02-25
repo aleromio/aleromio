@@ -11,12 +11,12 @@ Over **20,000+ devices** designed and currently operating in real industrial env
 
 ## 🔧 Core Expertise
 
-- Embedded C (Bare-Metal Firmware)
+- Embedded C (Bare-Metal Firmware, RTOS)
 - Industrial IoT & Telematics Systems
 - CAN Bus / Automotive Protocols
 - LTE-M / NB-IoT Connectivity
 - Bootloaders & OTA (FOTA)
-- Multilayer PCB Design (Eagle, KiCad)
+- Multilayer PCB Design
 - Production Testing (FCT) & Manufacturing Support
 
 ---
