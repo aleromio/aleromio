@@ -28,6 +28,7 @@ This profile contains selected **non-confidential public examples** representing
 | Project | Key Technologies | Focus |
 | :--- | :--- | :--- |
 | **[Industrial Telematics Gateway](https://github.com/aleromio/Industrial-Automotive-Telematics-Gateway)** | CAN Bus, J1939, LTE Cat-M1 | Automotive robustness & ECU data mining. |
+| **[SBC Power & Telemetry Supervisor](https://github.com/aleromio/SBC-Management-Telemetry-Supervisor)** | MQTT, Ethernet, Power Management | Automotive robustness & ECU data mining. |
 | **[Marine Asset Tracker](https://github.com/aleromio/Marine-Asset-Tracker)** | LTE-M, GNSS, Low Power | Simple and compact design & Power management. |
 | **[Modem Driver (Gist)](https://gist.github.com/aleromio/e1f044775a8d06c891d5415b597c1d41)** | C, FSM, AT Parser | Non-blocking firmware architecture. |
 
