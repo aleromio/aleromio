@@ -5,7 +5,7 @@ Senior Embedded Systems Engineer with 15+ years of experience designing industri
 I specialize in end-to-end embedded system development: from PCB design and low-level firmware to production deployment and large-scale field operation.  
 Over **20,000+ devices** designed and currently operating in real industrial environments.
 
-> **Note on Workflow:** My professional daily activity and proprietary enterprise projects are hosted on private **TFS (Azure DevOps)** environments. This GitHub profile serves as a curated showcase.
+> **Note on Workflow:** My professional daily activity and proprietary enterprise projects are hosted on private **TFS (Azure DevOps)** environments. This GitHub profile serves as a curated showcase showing a few examples.
 
 ---
 
